@@ -1,6 +1,7 @@
-# notelify
+# Notelify
 
-A new Flutter project.
+A work scheduler app built with Flutter.
+[![Google Play](screenshots/download.svg)](https://play.google.com/store/apps/details?id=com.soumyadip.notelify)
 
 ## Getting Started
 
